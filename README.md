@@ -1,5 +1,24 @@
 # challenge-fyld-hansecom
 
+Code challenge for Nuxtjs
+
+Create a simple Single Page Application containing:
+
+- A search input field for the Title of movies.
+- A button that on action sends a request to a public movie API searching for the string in the previously mentioned input field. (optional if the input field is made to update the result list after each input update)
+- A Card list section that displays the movie basic information. (or movieS if the search doesn't require exact match of the title)
+
+Please use the following technologies:
+- Nuxt.js v2 (mode: spa)
+- Vuex for data manipulation
+- Nuxt Vuetify for basic layout and components
+
+Result
+
+After developing the app push it to a public git repo of your choosing. The readme should contain the basic commands list required for the app to be started.
+
+Thank you and the best of luck
+
 ## Build Setup
 
 ```bash
