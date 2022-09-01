@@ -1,5 +1,7 @@
 # challenge-fyld-hansecom
 
+![Screenshot](/assets/screenshot.png)
+
 Code challenge for Nuxtjs
 
 Create a simple Single Page Application containing:
